@@ -1,4 +1,4 @@
-# 🚀 Levantando el Proyecto Django
+1# 🚀 Levantando el Proyecto Django
 
 ¡Bienvenido! 🎉 En este tutorial, aprenderás a configurar y ejecutar nuestro proyecto Django desde cero. 🐍✨
 
@@ -15,7 +15,7 @@ Antes de comenzar, asegúrate de tener instalado:
 ### 1️⃣ Clonar el Repositorio
 
 ```bash
-git clone https://github.com/usuario/proyecto-django.git
+git clone https://github.com/ElizabethEscobar04/tendenciastda2025
 cd reservas_inteligentes
 ```
 
